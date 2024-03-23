@@ -5,7 +5,7 @@ Learning the fundamentals of HTML, CSS, JavaScript and Python. 🎶
 Will be more than happy to share my projects and cross the different milestones before I realize my dream. 🎉
 
 <picture>
- <img alt="I Love Web Development" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iloveit.net%2Fpassion%2Fweb-development-as-a-passion-and-hobby%2F&psig=AOvVaw1X1j4taojdRYloKJJaZjaL&ust=1711299915303000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDt6Y3vioUDFQAAAAAdAAAAABAE">
+ <img alt="I Love Web Development" src="https://www.soutechventures.com/wp-content/uploads/2018/06/soutech-web-consults-we-love-web-development-1024x582.jpg">
 </picture>
 
 
