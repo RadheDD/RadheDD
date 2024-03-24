@@ -5,7 +5,9 @@ I have already started creating designer and responsive web pages using HTML and
 JavaScript and Python are next on my "To-Learn" list. 🎶
 I will be more than happy to share my projects here and cross different milestones before I realize my dream. 🎉
 Thanks for Visiting! 💖
-Image by medium.com
+
+
+Credit for the Image used below belongs to medium.com
 
 <picture>
  <img alt="I Love Web Development" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg">
