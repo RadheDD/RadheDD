@@ -5,10 +5,10 @@ I have already started creating designer and responsive web pages using HTML and
 JavaScript and Python are next on my "To-Learn" list. 🎶
 I will be more than happy to share my projects here and cross different milestones before I realize my dream. 🎉
 Thanks for Visiting! 💖
-Image by <a href="https://www.freepik.com/free-vector/woman-working-new-app_10276620.htm#query=female%20web%20developer&position=0&from_view=keyword&track=ais&uuid=c6e987e9-88a8-45b5-b98c-4eb5e1a1805e">Freepik</a>
+Image by medium.com
 
 <picture>
- <img alt="I Love Web Development" src="https://www.freepik.com/free-vector/woman-working-new-app_10276620.htm#query=female%20web%20developer&position=0&from_view=keyword&track=ais&uuid=c6e987e9-88a8-45b5-b98c-4eb5e1a1805e">
+ <img alt="I Love Web Development" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg">
 </picture>
 
 
