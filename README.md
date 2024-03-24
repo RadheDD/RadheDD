@@ -5,9 +5,10 @@ I have already started creating designer and responsive web pages using HTML and
 JavaScript and Python are next on my "To-Learn" list. 🎶
 I will be more than happy to share my projects here and cross different milestones before I realize my dream. 🎉
 Thanks for Visiting! 💖
+Image by <a href="https://www.freepik.com/free-vector/woman-working-new-app_10276620.htm#query=female%20web%20developer&position=0&from_view=keyword&track=ais&uuid=c6e987e9-88a8-45b5-b98c-4eb5e1a1805e">Freepik</a>
 
 <picture>
- <img alt="I Love Web Development" src="https://www.soutechventures.com/wp-content/uploads/2018/06/soutech-web-consults-we-love-web-development-1024x582.jpg">
+ <img alt="I Love Web Development" src="https://www.freepik.com/free-vector/woman-working-new-app_10276620.htm#query=female%20web%20developer&position=0&from_view=keyword&track=ais&uuid=c6e987e9-88a8-45b5-b98c-4eb5e1a1805e">
 </picture>
 
 
